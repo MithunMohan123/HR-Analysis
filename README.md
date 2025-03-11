@@ -42,7 +42,7 @@ This Power BI Dashboard provides a comprehensive analysis of workforce data, foc
 
 ## 📷 Dashboard
 
-<a href="https://github.com/MithunMohan123/HR-Analysis/blob/main/Dashboard.png">Dashboard Picture</a>
+<a href="https://github.com/MithunMohan123/HR-Analysis/blob/main/HR%20ANALYSIS.pdf">Dashboard Picture</a>
 
 <a href="https://github.com/MithunMohan123/HR-Analysis/blob/main/HR%20ANALYSIS.pbix"> Interactive Dashboard </a>
 
