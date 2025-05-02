@@ -71,6 +71,5 @@ Leverage gender composition insights to ensure diversity and equity in decision-
 
 
 ## 💡 How to Use
-1. Download the `.pbix` file and open it in Power BI Desktop.
-2. Use the slicers and filters to explore the data interactively.
-3. Gain actionable insights to improve workforce management strategies.
+1. Use the slicers and filters to explore the data interactively.
+2. Gain actionable insights to improve workforce management strategies.
