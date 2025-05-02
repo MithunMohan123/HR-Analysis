@@ -10,6 +10,12 @@ This Power BI Dashboard provides a comprehensive analysis of workforce data, foc
 - <a href="https://github.com/MithunMohan123/HR-Analysis/blob/main/HR%20employee%20data.csv">HR Employee Data</a>
 
 
+## 📷 Dashboard
+
+<a href="https://github.com/MithunMohan123/HR-Analysis/blob/main/HR%20ANALYSIS.pdf">Dashboard Picture</a>
+
+<a href="https://app.powerbi.com/view?r=eyJrIjoiZDk1MWQwNGEtOWU1ZS00YjNjLTg2MjUtNWFiMzBlM2VmYzA0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9"> Interactive Dashboard </a>
+
 
 ## ✨ Key Features
 
@@ -40,11 +46,6 @@ This Power BI Dashboard provides a comprehensive analysis of workforce data, foc
 
 
 
-## 📷 Dashboard
-
-<a href="https://github.com/MithunMohan123/HR-Analysis/blob/main/HR%20ANALYSIS.pdf">Dashboard Picture</a>
-
-<a href="https://app.powerbi.com/view?r=eyJrIjoiZDk1MWQwNGEtOWU1ZS00YjNjLTg2MjUtNWFiMzBlM2VmYzA0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9"> Interactive Dashboard </a>
 
 
 
